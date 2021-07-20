@@ -1,7 +1,6 @@
 
 Alifa/README.md
 <u><h1>MySelf-<i>Alifa</i></h1></u>
-<h3> Hi There I am Alifa 🖐</h3>
 
 I am <strong> Alifa </strong> . Currently I am <strong>styding in Computer Science and Engineering</strong>at <strong> University of Asia Pacific </strong>.Currently I am Leaning CSS and in the next I will lean the JavaScript . I have a Youtube Channel I love to Design and Edit and also love to code in Practical things like Robots 🤖<br><hr>
 
