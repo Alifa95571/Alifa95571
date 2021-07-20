@@ -20,5 +20,4 @@ I am <strong> Alifa </strong> . Currently I am <strong>styding in Computer Scien
 ✓ On linkdln       :<a href ="https://www.linkedin.com/in/alifun-nahar-6b31661a5/">Alifun Nahar</a><hr>
 
 
-![145-1451605_website-design-development-website-development-vector-png-transparent](https://user-images.githubusercontent.com/66643157/126250831-16053862-5c69-4ce9-b61a-a4790610be43.png)
 
