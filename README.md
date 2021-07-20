@@ -18,8 +18,3 @@ I am <strong> Alifa </strong> . Currently I am <strong>styding in Computer Scien
 ✓ On Facebook      :<a href ="https://www.facebook.com/profile.php?id=100004883478610"> Alifun Nahar</a><br>
 ✓ On Youtube       :<a href ="https://www.youtube.com/channel/UCnwYkXb74oJvopplDe5PJYg">My channel -- DunyaToAkheera </a><br>
 ✓ On linkdln       :<a href ="https://www.linkedin.com/in/alifun-nahar-6b31661a5/">Alifun Nahar</a><hr>
-
-![pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210-removebg-preview](https://user-images.githubusercontent.com/66643157/126251608-4f82c864-9412-4753-b204-2b6a98ec5941.png)
-
-
-
