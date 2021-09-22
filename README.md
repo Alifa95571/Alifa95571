@@ -7,7 +7,7 @@ I am <strong> Alifa </strong> . Currently I am <strong>styding in Computer Scien
 <ol>
   <li> Programming language : C, Java, python</li> 
   <li> Database : MySQL</li>
-  <li> HTML , CSS & JavaScript ,Bootstrap</li>
+  <li> HTML , CSS </li>
   <li> Adobe Illustrator , Adobe Premior Pro</li> 
 </ol> <hr> <br>
 <h4>How Can you Find me 📫 !!</h4>
